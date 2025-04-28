@@ -34,7 +34,7 @@
 
 ## 📫 Let's Connect
 - [GitHub Profile](https://github.com/SergeiStanislavovich)
-- 📩 Email: [your.email@example.com](sergeiegorovjob@gmail.com)
+- 📩 Email: [sergeiegorovjob@gmail.com](sergeiegorovjob@gmail.com)
 - [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-blueviolet?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/sergeistanislavovich)
 
 ---
