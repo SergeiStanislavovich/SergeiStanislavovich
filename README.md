@@ -27,7 +27,7 @@
 | :--- | :--- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Pandas, Numpy, Seaborn, Matplotlib, Plotly |
 | ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | PostgreSQL, MySQL |
-| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | Power BI |
+| ![BI Tools](https://img.shields.io/badge/BI%20Tools-ffcc00?style=for-the-badge&logo=bar-chart&logoColor=black) | Power BI, Yandex DataLens |
 | ![Workflow](https://img.shields.io/badge/Workflow-000000?style=for-the-badge&logo=gear&logoColor=white) | Jupyter Notebook, Git, VS Code |
 
 ---
